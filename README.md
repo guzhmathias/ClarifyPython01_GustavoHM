@@ -1,4 +1,4 @@
-# 📘 Repositório de Aulas de Python
+# 📘 Repositório de Aulas de Python!
 
 Bem-vindo ao repositório de estudos de Python! Este espaço foi criado para armazenar os exercícios, exemplos e conteúdos desenvolvidos ao longo do curso de introdução à programação com Python.
 
