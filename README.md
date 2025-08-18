@@ -2,11 +2,11 @@
 
 Bem-vindo ao repositório de estudos de Python! Este espaço foi criado para armazenar os exercícios, exemplos e conteúdos desenvolvidos ao longo do curso de introdução à programação com Python.
 
-## 🧠 Objetivo
+## 🧠 Objetivo:
 
 Documentar o processo de aprendizagem da linguagem Python, através de exercícios práticos, scripts comentados e organização dos tópicos essenciais para iniciantes.
 
-## 📁 Estrutura dos Arquivos
+## 📁 Estrutura dos Arquivos:
 
 - `Escola.py`: Simulação de estrutura de dados relacionada a uma escola (alunos, notas, etc.).
 - `Exercicio01.py`: Primeiro exercício prático com conceitos básicos de Python.
@@ -17,7 +17,7 @@ Documentar o processo de aprendizagem da linguagem Python, através de exercíci
 - `tipificacao_variaveis.py`: Demonstração dos tipos de variáveis e suas utilizações.
 - `README.md`: Este arquivo de documentação.
 
-## 📌 Tópicos Abordados
+## 📌 Tópicos Abordados:
 
 - Variáveis e Tipos de Dados  
 - Entrada e Saída de Dados  
@@ -27,12 +27,12 @@ Documentar o processo de aprendizagem da linguagem Python, através de exercíci
 - Organização e Estrutura de Código  
 - Boas Práticas em Python
 
-## 🚀 Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas:
 
 - Linguagem: Python 3.x  
 - Editor recomendado: VSCode ou PyCharm
 
-## 📝 Como Usar
+## 📝 Como Usar:
 
 1. Clone o repositório:  
    `git clone https://github.com/seu-usuario/nome-do-repositorio.git`  
@@ -41,7 +41,7 @@ Documentar o processo de aprendizagem da linguagem Python, através de exercíci
 3. Execute os scripts com Python:  
    `python nome_do_arquivo.py`
 
-## 🤝 Contribuições
+## 🤝 Contribuições:
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir *issues* ou *pull requests* com melhorias, correções ou sugestões.
 
