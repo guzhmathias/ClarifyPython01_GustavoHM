@@ -81,6 +81,7 @@ criarTabela()
 
 #Inserir dados no banco de dados
 
+
 inserirUsuario("Gustavo", "22")
 inserirUsuario("Marcelo", "23")
 inserirUsuario("Catarina", "21")
@@ -105,7 +106,6 @@ print(linha)
 
 #Excluir usuario
 print("Usuarios limpos com Sucesso")
-
 
 excluirUser(1)
 excluirUser(2)
